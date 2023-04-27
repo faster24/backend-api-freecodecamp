@@ -1,5 +1,8 @@
 {
-	"author": "Nyi Ye Naing",
+	"author": {
+		"name": "Nyi Ye Naing",
+		"email": "guesszero24@gmail.com"
+	},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
